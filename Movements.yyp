@@ -3,12 +3,11 @@
   "resourceVersion": "1.6",
   "name": "Movements",
   "resources": [
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":2,},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":1,},
-    {"id":{"name":"My_First_Design","path":"sprites/My_First_Design/My_First_Design.yy",},"order":0,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":0,},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":1,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"My_First_Design","path":"sprites/My_First_Design/My_First_Design.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -26,7 +25,6 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
